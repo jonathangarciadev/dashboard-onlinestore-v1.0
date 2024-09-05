@@ -19,7 +19,7 @@ npm or yarn – Node.js package manager (npm is included with Node.js)
 
 <h1>Installation</h1>
 Clone the repository:
-git clone https://github.com/your-username/dashboard-design.git
+git clone https://github.com/jonathangarciadev/dashboard-onlinestore-v1.0
 
 <h1>Navigate to the project directory:</h1>
 cd dashboard-design
@@ -46,5 +46,5 @@ This is a front-end only project, so no backend functionality is present.
 <h1>Contact</h1>
 Jonathan García - garciacorralesjonathan@gmail.com
 
-Project Link [Here] (https://github.com/jonathangarciadev/dashboard-onlinestore-v1.0)
+Project Link: https://github.com/jonathangarciadev/dashboard-onlinestore-v1.0
 
