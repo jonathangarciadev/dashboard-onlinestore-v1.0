@@ -3,7 +3,7 @@ This project is a ReactJS dashboard design built using TailwindCSS to create a m
 The project is currently a front-end only design, showcasing how a fully functional dashboard could look and feel.
 
 ![Mobile](https://i.ibb.co/P9vLmLb/ddd.jpg)
-![Desktop](src/assets/Screenshot 2024-09-05 141452.jpg)
+![Desktop](src/assets/Screenshot%202024-09-05%20141452.jpg)
 
 <h1>Features</h1>
 Responsive design: Optimized for both desktop and mobile devices using TailwindCSS.
