@@ -2,8 +2,8 @@
 This project is a ReactJS dashboard design built using TailwindCSS to create a modern, responsive interface. It includes interactive hover effects and a clean UI, perfect for applications like admin panels or analytics dashboards.
 The project is currently a front-end only design, showcasing how a fully functional dashboard could look and feel.
 
-[url=https://ibb.co/KLpP0PQ][img]https://i.ibb.co/P9vLmLb/ddd.jpg[/img][/url]
-[url=https://ibb.co/GTCzPYs][img]https://i.ibb.co/BNT0sW4/Screenshot-2024-09-05-141452.jpg[/img][/url]
+![Mobile](https://i.ibb.co/P9vLmLb/ddd.jpg)
+![Desktop](https://i.ibb.co/BNT0sW4/Screenshot-2024-09-05-141452.jpg)
 
 <h1>Features</h1>
 Responsive design: Optimized for both desktop and mobile devices using TailwindCSS.
